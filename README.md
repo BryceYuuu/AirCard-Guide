@@ -21,7 +21,7 @@ AirCard 是一款 macOS 工具，通过 USB 连接 iPhone，自定义 Apple Wall
 | <img src="assets/skins/cardboard-credit-card.png" alt="纸板质感卡面，印有 Official Credit Card 和 Trust Me 字样" width="400"> | <img src="assets/skins/apple-minimal.png" alt="浅灰背景中央的灰色 Apple 标志" width="300"> |
 | [下载 PNG 原图](https://raw.githubusercontent.com/BryceYuuu/AirCard-Guide/main/assets/skins/cardboard-credit-card.png) · 1411 × 1008 | [下载 PNG 原图](https://raw.githubusercontent.com/BryceYuuu/AirCard-Guide/main/assets/skins/apple-minimal.png) · 1080 × 1080 |
 
-**裁切提示：**当前程序会等比放大并居中裁剪图片，生成 **1536 × 969** 的横向卡面。这里展示的是原图，实际卡面会有裁切；正方形 Apple 素材会裁掉一部分上下区域，纸板素材的上下边缘也会被裁切。想保留特定构图，可先按约 **1.585:1** 的比例排版，再导入并查看预览。更多说明见 [素材说明](assets/skins/README.md)。
+**裁切提示：** 当前程序会等比放大并居中裁剪图片，生成 **1536 × 969** 的横向卡面。这里展示的是原图，实际卡面会有裁切；正方形 Apple 素材会裁掉一部分上下区域，纸板素材的上下边缘也会被裁切。想保留特定构图，可先按约 **1.585:1** 的比例排版，再导入并查看预览。更多说明见 [素材说明](assets/skins/README.md)。
 
 ## 开始前准备
 
@@ -92,8 +92,8 @@ AirCard 是一款 macOS 工具，通过 USB 连接 iPhone，自定义 Apple Wall
 ## 反馈、更新与致谢
 
 - **下载和版本更新：**[Mak5er/AirCard Releases](https://github.com/Mak5er/AirCard/releases)。本 Fork 不单独发布安装包。
-- **程序问题：**查看[上游 Issues](https://github.com/Mak5er/AirCard/issues)。反馈时提供机型、iOS、macOS 和 AirCard 版本，以及简短错误信息；不要公开完整设备日志或卡片标识。
-- **指南和素材说明：**由 [BryceYuuu](https://github.com/BryceYuuu) 整理维护。
+- **程序问题：** 查看[上游 Issues](https://github.com/Mak5er/AirCard/issues)。反馈时提供机型、iOS、macOS 和 AirCard 版本，以及简短错误信息；不要公开完整设备日志或卡片标识。
+- **指南和素材说明：** 由 [BryceYuuu](https://github.com/BryceYuuu) 整理维护。
 - **原作者及贡献者：**[Mak5er](https://github.com/Mak5er)、[Lumid-Off](https://github.com/Lumid-Off)，以及提供底层 [AirLift](https://github.com/0xjohnnydev/airlift) 的 [0xjohnny](https://github.com/0xjohnnydev)。喜欢这个项目，可以给[原项目](https://github.com/Mak5er/AirCard)点个 Star，或通过[原作者支持入口](README.upstream.md#support)支持开发。
 
 上游代码遵循 [MIT License](LICENSE)，原有版权声明保持不变。新增素材由本仓库维护者提供，不自动适用代码的 MIT 授权，详见[素材说明](assets/skins/README.md)。本指南及示例卡面不代表 Apple 或任何银行的官方产品。
