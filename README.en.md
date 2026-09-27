@@ -4,7 +4,7 @@
 
 [中文](README.md) · English · [Download AirCard](https://github.com/Mak5er/AirCard/releases/latest) · [Card artwork](#card-artwork)
 
-A **Chinese and English getting-started guide with sample artwork**, put together by [BryceYuuu](https://github.com/BryceYuuu) for readers of the social post. This repository is a fork of [Mak5er/AirCard](https://github.com/Mak5er/AirCard). It adds documentation and sample images while retaining the upstream application source. Credit for AirCard and its development belongs to the original author and contributors.
+A **Chinese and English guide with sample artwork and an offline card editor**, put together by [BryceYuuu](https://github.com/BryceYuuu) for readers of the social post. This repository is a fork of [Mak5er/AirCard](https://github.com/Mak5er/AirCard). It adds practical guides, sample images, and an offline cropping tool while retaining the upstream application source. Credit for AirCard and its development belongs to the original author and contributors.
 
 ## What does AirCard do?
 
@@ -69,6 +69,16 @@ Download any PNG above. Click the target card in AirCard to select an image, or 
 ### 5. Apply and refresh
 
 Click **Flash Skins** and wait for completion. Force-close **Wallet** from the iPhone app switcher, then reopen it. If the artwork has not refreshed, try restarting the iPhone.
+
+## Detailed guides and offline editor
+
+| Task | Open |
+| --- | --- |
+| Resolve connection, scanning, flashing, or refresh failures | [Troubleshooting by stage](docs/guides/TROUBLESHOOTING.en.md) |
+| Manage multiple cards, change phones, or handle interrupted batches | [Multi-card workflows and failure handling](docs/guides/MULTI-CARD.en.md) |
+| Build a passcode theme from a poster or individual key images | [Complete Theme Creator guide](docs/guides/THEME-CREATOR.en.md) |
+| Check the verified scope or report a device test | [Compatibility records](docs/guides/COMPATIBILITY.en.md) · [Report template](docs/guides/compatibility-report-template.md) |
+| Frame an image locally and export a 1536 × 969 PNG | [Offline card artwork editor](tools/card-artwork/README.md) |
 
 ## Frequently asked questions
 

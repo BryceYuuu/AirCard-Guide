@@ -4,7 +4,7 @@
 
 中文 · [English](README.en.md) · [下载 AirCard](https://github.com/Mak5er/AirCard/releases/latest) · [卡面素材](#卡面素材)
 
-这是 [BryceYuuu](https://github.com/BryceYuuu) 为看过推广帖、想自己动手的朋友整理的 **AirCard 中英文入门指南与素材库**，Fork 自 [Mak5er/AirCard](https://github.com/Mak5er/AirCard)。本仓库增加使用说明和示例图片，保留上游程序源码；AirCard 的开发与功能更新归功于原作者及贡献者。
+这是 [BryceYuuu](https://github.com/BryceYuuu) 为看过推广帖、想自己动手的朋友整理的 **AirCard 中英文使用指南、素材库与离线卡面工具**，Fork 自 [Mak5er/AirCard](https://github.com/Mak5er/AirCard)。本仓库增加进阶教程、示例图片和离线裁切工具，保留上游程序源码；AirCard 的开发与功能更新归功于原作者及贡献者。
 
 ## AirCard 能做什么？
 
@@ -69,6 +69,16 @@ AirCard 是一款 macOS 工具，通过 USB 连接 iPhone，自定义 Apple Wall
 ### 5. 应用并刷新
 
 点击 **Flash Skins**，等待完成。然后在 iPhone 的多任务界面彻底关闭 **钱包 / Wallet**，再重新打开；如果没有更新，可尝试重启 iPhone。
+
+## 进阶指南与离线工具
+
+| 你想做什么 | 打开这里 |
+| --- | --- |
+| 解决连接、扫描、刷入或刷新失败 | [分阶段排障手册](docs/guides/TROUBLESHOOTING.zh-CN.md) |
+| 管理多张卡、换设备、处理批量中断 | [多卡操作与失败处理](docs/guides/MULTI-CARD.zh-CN.md) |
+| 从整图或单键图片制作锁屏主题 | [Theme Creator 完整教程](docs/guides/THEME-CREATOR.zh-CN.md) |
+| 查看实测范围或提交设备测试结果 | [兼容性记录](docs/guides/COMPATIBILITY.zh-CN.md) · [反馈模板](docs/guides/compatibility-report-template.md) |
+| 本地选图、调整构图、导出 1536 × 969 PNG | [离线卡面制作工具](tools/card-artwork/README.md) |
 
 ## 常见问题
 
