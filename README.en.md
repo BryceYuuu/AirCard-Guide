@@ -14,14 +14,19 @@ Artwork changes are visual: an image does not create a bank card or change its p
 
 ## Card artwork
 
-These are the two original images shared with the post. Use the links below to download them. If GitHub opens an image preview, choose **Download raw file**, or open **Raw** and save the image.
+Original card artwork for this guide. Use the links below to download them. If GitHub opens an image preview, choose **Download raw file**, or open **Raw** and save the image.
 
 | Cardboard credit card | Minimal Apple artwork |
 | :---: | :---: |
 | <img src="assets/skins/cardboard-credit-card.png" alt="Cardboard-style artwork with Official Credit Card and Trust Me lettering" width="400"> | <img src="assets/skins/apple-minimal.png" alt="A gray Apple logo centered on a pale gray background" width="300"> |
 | [Download original PNG](https://raw.githubusercontent.com/BryceYuuu/AirCard-Guide/main/assets/skins/cardboard-credit-card.png) · 1411 × 1008 | [Download original PNG](https://raw.githubusercontent.com/BryceYuuu/AirCard-Guide/main/assets/skins/apple-minimal.png) · 1080 × 1080 |
 
-**Cropping:** the current app scales images to fill and center-crops them to **1536 × 969**. The previews above show the original files, so the applied artwork will look cropped. The square Apple image loses some of its top and bottom; the cardboard image also loses some of its top and bottom edges. For precise framing, prepare an image at roughly **1.585:1**, then import it and check the preview. See the [artwork notes](assets/skins/README.md).
+| Amex black artwork | Trump Gold Card artwork |
+| :---: | :---: |
+| <img src="assets/skins/amex-black.png" alt="Black American Express artwork with a chip and centurion portrait" width="400"> | <img src="assets/skins/trump-gold-card.png" alt="Gold Trump Gold Card artwork with a Trump portrait, Statue of Liberty, eagle, and VISA lettering" width="400"> |
+| [Download original PNG](https://raw.githubusercontent.com/BryceYuuu/AirCard-Guide/main/assets/skins/amex-black.png) · 844 × 540 | [Download original PNG](https://raw.githubusercontent.com/BryceYuuu/AirCard-Guide/main/assets/skins/trump-gold-card.png) · 1536 × 969 |
+
+**Cropping:** the current app scales images to fill and center-crops them to **1536 × 969**. The previews above show the original files; images with a different aspect ratio will be cropped. The square Apple image loses some of its top and bottom; the cardboard image also loses some of its top and bottom edges. For precise framing, prepare an image at roughly **1.585:1**, then import it and check the preview. See the [artwork notes](assets/skins/README.md).
 
 ## Before you start
 
@@ -59,7 +64,7 @@ Wait for the card to appear in AirCard on the Mac.
 
 ### 4. Choose an image
 
-Download either PNG above. Click the target card in AirCard to select an image, or drag the image directly onto it. Check the preview and make sure you selected the intended card. You can assign a different image to each card.
+Download any PNG above. Click the target card in AirCard to select an image, or drag the image directly onto it. Check the preview and make sure you selected the intended card. You can assign a different image to each card.
 
 ### 5. Apply and refresh
 
@@ -87,7 +92,7 @@ This guide covers the upstream **macOS DMG with an iPhone connected over USB**. 
 
 ### How do passcode themes work?
 
-Open **Passcode (.passthm)**, import a `.passthm` file, review the preview, and click **Flash Passcode Theme**. Restart the iPhone when it finishes. The two PNGs here are card artwork, not `.passthm` theme packages. See the [original upstream README](README.upstream.md) for theme creation and source-build instructions.
+Open **Passcode (.passthm)**, import a `.passthm` file, review the preview, and click **Flash Passcode Theme**. Restart the iPhone when it finishes. The PNGs here are card artwork, not `.passthm` theme packages. See the [original upstream README](README.upstream.md) for theme creation and source-build instructions.
 
 ## Updates, feedback, and credits
 
